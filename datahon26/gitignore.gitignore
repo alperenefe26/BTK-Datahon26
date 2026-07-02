@@ -1,0 +1,14 @@
+# Veri setleri ve Tahmin Çıktıları
+*.csv
+train.csv
+test_x.csv
+submission_xgb_optimized.csv
+
+# Jupyter Notebook ve Python Kalıntıları
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
